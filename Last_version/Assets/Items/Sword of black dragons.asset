@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a58b8b258dcd174580468b6bd1d252d, type: 3}
+  m_Name: Sword of black dragons
+  m_EditorClassIdentifier: 
+  name: Sword of black dragons
+  icon: {fileID: -386316816412555318, guid: ab6d933b33f290546932508438d1a12a, type: 3}
+  whatIsIt: weapon
+  playerEquipmentSlot: 5
+  hpModifire: 0
+  damageModifire: 5
+  whatisit: 
+  isModifireAlreadyAdded: 0
+  isEquiped: 0
+  playerInventory: {fileID: 0}

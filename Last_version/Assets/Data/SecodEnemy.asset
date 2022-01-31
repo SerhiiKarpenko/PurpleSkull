@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2d5cc7fadbff409eb9b0790ee875b, type: 3}
+  m_Name: SecodEnemy
+  m_EditorClassIdentifier: 
+  id: 2
+  maxHp: 50
+  damage: 10
+  lvl: 3
+  healPower: 2
+  MaxHealCountPerBattle: 2
+  sprite: {fileID: 8829428721256032691, guid: b978c843a36d02a4283b2fbd2eedccda, type: 3}
+  unitName: Demon
+  whichEnemy: 2

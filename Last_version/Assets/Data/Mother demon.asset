@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2d5cc7fadbff409eb9b0790ee875b, type: 3}
+  m_Name: Mother demon
+  m_EditorClassIdentifier: 
+  id: 12
+  maxHp: 300
+  damage: 30
+  lvl: 666
+  healPower: 40
+  MaxHealCountPerBattle: 4
+  sprite: {fileID: -6248400654371986139, guid: 900c601158b33c7469e670ef87039047, type: 3}
+  unitName: Mother demon
+  whichEnemy: 8
